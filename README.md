@@ -31,3 +31,19 @@ Kaur, P. (2026). *Examining Multilevel Interconnectedness in Entrepreneurial Eco
 
 ## Licence
 MIT License. See `LICENSE`.
+## Files
+
+- Thesis_Analysis_Scripts_151126.pdf: R scripts for the fsQCA analysis (Chapter 3) and the regression analysis (Chapter 4).
+- Paper3_R_Console_Output_181126.pdf: R console output for Paper 3 (Chapter 4): primary models, cross-effect checks, margins, pairwise comparisons, and the overlapping-window robustness specification with candidate controls.
+- Paper2_R_Output_Robustness_18112026.pdf: R output for the Paper 2 (Chapter 3) robustness checks.
+- Paper2_Homeostasis_Construction_18112026_1.pdf: construction of the Homeostasis index used in Paper 2.
+- fsQCA_R_Output_Paper2_Main_15112026.pdf: R output for the main fsQCA analysis in Paper 2.
+- SLR_Essay1_Process_Derivation_041126 (3).xlsx: process derivation for the systematic review (Essay 1).
+
+## Maps
+
+The maps (Figure 4.1 in Chapter 4 and the maps in Chapter 3 and Appendix B) were drawn using the ABS ASGS Edition 3 (2021) SA4 boundaries and the index values produced by these scripts. The mapping code is not included.
+
+## Notes
+
+Console output files contain local file paths from the author's computer.
